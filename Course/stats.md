@@ -16,9 +16,13 @@
 
 ## Lessons 2: Terminología y primeros pasos.
 
+  XX0
+
   1. [Ver video 2](https://www.youtube.com/watch?v=b8YMo811L10&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW&index=2)
 
   2. [Realizar demo](./Lessons/Lesson_2/exercises)
+
+  3. Escribir articulo
 
 ## Lessons 3: Separación entre elementos Grid.
 
