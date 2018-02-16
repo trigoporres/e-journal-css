@@ -6,6 +6,8 @@
 
 ## Lessons 1: Introdución al curso.
 
+  XXX
+
   1. [Ver video 1](https://www.youtube.com/watch?v=kqB7XD0d0gA&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 
   2. [Realizar demo](./Lessons/Lesson_1/exercises)
