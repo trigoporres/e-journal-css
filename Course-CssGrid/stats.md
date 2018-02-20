@@ -59,6 +59,8 @@
 
 ## Lessons 7: Grid template areas
 
+  XX
+
   1. [Ver video 7](https://www.youtube.com/watch?v=KByjJafoTEw&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW&index=7)
 
   2. [Realizar demo](./Lessons/Lesson_7/exercises)

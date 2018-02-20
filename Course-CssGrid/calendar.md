@@ -17,3 +17,5 @@
 . Add Lesson 5
 
 . Add Lesson 6
+
+. Add Lesson 7
