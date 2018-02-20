@@ -1,37 +1,32 @@
 # Concepts
 
-Otra manera de crear el grid y posicionar cada elemento es dando nombres a las grid line. De esa manera podemos especificamos donde empieza y el tamaño que tiene.
+Igual que se pueden nombrar el inicio de las lineas, se puede nombrar el final. De esa manera a la hora de especificar en cada elemento su posicion y tamaño quedara mucho mas expresivo.
 
 ```
   grid-template-columns:
         [sidebar-start] 1fr
-        [contenido-start] 2fr;
+        [sidebar-end contenido-start] 2fr
+        [contenido-end];
 
-  grid-template-rows:
+    grid-template-rows:
         [header-start] 1fr
-        [contenido-start] 2fr
-        [footer-start] 1fr;
+        [header-end contenido-start] 2fr
+        [footer-start] 1fr
+        [footer-end];
 ```
-
-Esto se puede hacer con las filas y las columnas. Después de esto desde cada elemento directamente le especificamos donde empieza y donde termina.
+En cada elemento podemos dejar de usar span 2, -1... Ya solo necesitaremos especificar la linea final.
 
 ```
   header {
-    grid-column: sidebar-start / span 2;
+    grid-column: sidebar-start / contenido-end;
   }
 
   aside {
-    grid-row: contenido-start / span 2;
+    grid-row: header-end / footer-end;
   }
 
   footer {
-    grid-column: contenido-start;
+    grid-column: contenido-start / contenido-end;
   }
-````
-En este caso el header empezara en _sidebar-start_ y ocupara 2 columnas.
-
-En este caso el aside empezara en _contenido-start_ y ocupara 2 filas.
-
-En este caso el footer empezara en _contenido-start_ y como a la hora de nombrar las lineas ya especificamos que ocupara 2fr, en este caso no hace falta volverlo a poner nuevamente.
-
-**span 2** : de esta manera le estamos diciendo los grid cell debe ocupar, en caso de que queramos que **siempre** llegue hasta el final podemos colocar -1. Pero hay que tener en cuenta que si añadimos otra fila o columna, el elemento al que le hayamos colocado esto siempre llegara hasta el final.
+```
+Es buena practica al usar este metodo colocar los prefijos start o end con el fin de evitar confusiones y ser mas expresivos.
