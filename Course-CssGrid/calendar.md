@@ -8,4 +8,8 @@
 
 ## 17/02/2018
 
-. Add Lessons 3.
+. Add Lesson 3.
+
+## 20/02/2018
+
+. Add Lesson 4

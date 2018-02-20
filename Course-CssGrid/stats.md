@@ -16,25 +16,26 @@
 
 ## Lessons 2: Terminología y primeros pasos.
 
-  XX0
+  XX
 
   1. [Ver video 2](https://www.youtube.com/watch?v=b8YMo811L10&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW&index=2)
 
   2. [Realizar demo](./Lessons/Lesson_2/exercises)
 
-  3. Escribir articulo
 
 ## Lessons 3: Separación entre elementos Grid.
 
-  XX0
+  XX
 
   1. [Ver video 3](https://www.youtube.com/watch?v=Gw92JWnSCek&index=3&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 
   2. [Realizar demo](./Lessons/Lesson_3/exercises)
 
-  3. Escribir articulo
+  
 
 ## Lessons 4: Usando Grid Lines por su nombre.
+
+  XX
 
   1. [Ver video 4](https://www.youtube.com/watch?v=r9lTeziVdWY&index=4&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 
