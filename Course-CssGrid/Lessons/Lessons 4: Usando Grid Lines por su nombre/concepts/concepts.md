@@ -34,4 +34,4 @@ En este caso el aside empezara en _contenido-start_ y ocupara 2 filas.
 
 En este caso el footer empezara en _contenido-start_ y como a la hora de nombrar las lineas ya especificamos que ocupara 2fr, en este caso no hace falta volverlo a poner nuevamente.
 
-**span 2** : de esta manera le estamos diciendo las columna o filas que debe ocupar, en caso de que queramos que **siempre** llegue hasta el final podemos colocar -1. Pero hay que tener en cuenta que si añadimos otra fila o columna, el elemento al que le hayamos colocado esto siempre llegara hasta el final.
+**span 2** : de esta manera le estamos diciendo los grid cell debe ocupar, en caso de que queramos que **siempre** llegue hasta el final podemos colocar -1. Pero hay que tener en cuenta que si añadimos otra fila o columna, el elemento al que le hayamos colocado esto siempre llegara hasta el final.
