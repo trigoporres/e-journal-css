@@ -15,3 +15,5 @@
 ##### [Lessons 4: Usando Grid Lines por su nombre.](./Lessons/Lessons-4-Usando-Grid-Lines-por-su-nombre)
 
 ##### [Lessons 5: Grid start & end lines](./Lessons/Lessons-5-Grid-start-&-end-lines)
+
+##### [Lessons 6: Fraction](./Lessons/Lessons-6-Fraction)

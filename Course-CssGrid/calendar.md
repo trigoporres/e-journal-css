@@ -15,3 +15,5 @@
 . Add Lesson 4
 
 . Add Lesson 5
+
+. Add Lesson 6

@@ -49,7 +49,9 @@
 
   2. [Realizar demo](./Lessons/Lesson_5/exercises)
 
-## Lessons 6: Grid start & end lines
+## Lessons 6: Fraction 
+
+  XX
 
   1. [Ver video 6](https://www.youtube.com/watch?v=xpPWhQ3JcPg&index=6&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 
